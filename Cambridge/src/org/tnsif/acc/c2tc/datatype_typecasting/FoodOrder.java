@@ -6,9 +6,9 @@ public class FoodOrder {
 		
 		//Primitive datatype
 		
-		int     orderId =101;
+	    int     orderId =101;
 		double  price=299.99;
-		boolean isDelivered= false;
+	    boolean isDelivered= false;
 		char    rating='A';
 		float   deliveryDistance=5.3f;
 		long    deliveryBoyPhone= 9835365252L;
