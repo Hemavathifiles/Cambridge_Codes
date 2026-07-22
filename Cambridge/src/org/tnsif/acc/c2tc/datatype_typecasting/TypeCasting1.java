@@ -1,6 +1,6 @@
 package org.tnsif.acc.c2tc.datatype_typecasting;
 
-public class TypeCastingDemo {
+public class TypeCasting1 {
 
 	public static void main(String[] args) {
 		//Shopping Cart
